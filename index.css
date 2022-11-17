@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#titulo {
+    font-family: sans-serif;
+    color: rgb(94, 94, 94);
+    margin-left: 7%;
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+#subtitulo {
+    font-family: sans-serif;
+    color: rgb(66, 66, 66);
+    margin-left: 10%;
+
+}
+
+fieldset {
+    border: 3;
+}
+
+body {
+    background-color: rgb(202, 218, 239);
+    font-family: sans-serif;
+}
+
+.campo {
+    margin-bottom: 1em;
+    margin-left: 5%;
+    
+}
+
+.campo label {
+    margin-bottom: 0,2em;
+    color: rgb(94, 72, 72);
+    display: block;
+}
+
+fieldset.grupo .campo {
+
+    float: left;
+    margin-right: 1em;
+}
+
+.botao {
+    margin-left: 5%;
+    background-color: #203dde;
+    font-size: medium;
+
+}
